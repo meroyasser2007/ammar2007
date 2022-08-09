@@ -1,3 +1,11 @@
+#sign_up{
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    background-color: red;
+    color: black;
+    float: right;
+}
 #ARABIC_Version{
     text-align: center;
     text-decoration: none;
@@ -44,6 +52,7 @@ nav{
 background-color: red;
 color: green;
 }
+
 #APPLE_WATCH_REVIEW{
     padding-bottom: 18px;
 }
